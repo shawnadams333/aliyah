@@ -22,13 +22,6 @@ Who is there even among you that would shut the doors for nought? neither do ye 
 ### My name shall be great among the Gentiles
 For from the rising of the sun even unto the going down of the same my name shall be great among the Gentiles; and in every place incense shall be offered unto my name, and a pure offering: for my name shall be great among the heathen, saith the Lord of hosts. (Malachi 1:11)
 
-### Malachi 1 notes and questions
-This combination of ideas is interesting. In this chapter God says
-
-1. He loves Jacob, and Jacob's descendents  
-2. He hates Esau and has cursed Esau's descendents  
-3. Jacob's descendants are wicked and rebellious and God will not hear their pleas for help  
-4. The Gentiles honor God and give pure offerings to Him  
 
 [^1]: I believe the principle taught here is that God reserves unique love and blessings for His covenant children.
 [^2]: Edom refers to the nation that came from Esau.
