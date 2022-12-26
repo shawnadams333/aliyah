@@ -1,0 +1,12 @@
+pandoc notes
+
+to run a pandoc/core container
+sudo docker run --volume "$(pwd):/data" --rm -a stdout -a stderr pandoc/core covenant.md -f markdown -t html
+
+pandoc/core doesn't have pdflatex installed! Why not? Seems like a major flaw in the image.
+
+this works, and the pdf comes out looking pretty good...
+sudo docker run --volume "$(pwd):/data" --rm -a stdout -a stderr pandoc/latex covenant.md -f markdown -t pdf -o covenant.pdf
+
+
+
