@@ -17,6 +17,22 @@ Listen to the words of Christ your Redeemer, your Lord and your God. Behold, I c
 ### The diseased, sick, broken, and lost
 The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up that which was broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them. (Ezekiel 34:4)
 
+### The mission of Jesus Christ
+For thus saith the Lord God; behold, I, even I, will both search my sheep, and seek them out. As a shepherd seeketh out his flock in the day that he is among his sheep that are scattered; so will I seek out my sheep, and will deliver them out of all places where they have been scattered in the cloudy and dark day.
+
+And I will bring them out from the people, and gather them from the countries, and will bring them to their own land, and feed them upon the mountains of Israel by the rivers, and in all the inhabited places of the country. 
+
+I will feed them in a good pasture, and upon the high mountains of Israel shall their fold be: there shall they lie in a good fold, and in a fat pasture shall they feed upon the mountains of Israel.
+
+I will feed my flock, and I will cause them to lie down, saith the Lord God. I will seek that which was lost, and bring again that which was driven away, and will bind up that which was broken, and will strengthen that which was sick: but I will destroy the fat and the strong; I will feed them with judgment. (Ezekiel 34:11-16)
+
+### That shall ye also do
+Verily, verily, I say unto you, this is my gospel;[^1] and ye know the things that ye must do in my church; for the works which ye have seen me do that shall ye also do; for that which ye have seen me do even that shall ye do;[^2]
+
 # Questions
-1. What responsibilities are unique to holding the priesthood? (I think the answer is: "not much")
+1. What responsibilities are unique to holding the priesthood? (I think the general answer is: "not much")
 2. If there are very few unique responsibilities associated with holding the priesthood, what is the purpose of priesthood ordination for males?
+
+[^1]: I think Jesus summarized His gospel succinctly in verses 13-14: "... I came into the world to do the will of my Father, because my Father sent me. And my Father sent me that I might be lifted up upon the cross; and after that I had been lifted up upon the cross, that I might draw all men unto me...."
+
+[^2]: I believe this call to "do what Jesus did" is given to all disciples of Jesus Christ and is not unique to priesthood holders.
