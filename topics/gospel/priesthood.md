@@ -9,6 +9,8 @@ As I live, saith the Lord God, surely because my flock became a prey, and my flo
 
 Thus saith the Lord God; Behold, I am against the shepherds; and I will require my flock at their hand, and cause them to cease from feeding the flock; neither shall the shepherds feed themselves any more; for I will deliver my flock from their mouth, that they may not be meat for them. (Ezekiel 34:8-10)
 
+> The notions of shepherds and a flock definitely imply some form of leadership in God's kingdom on earth. But when I try to distinguish between leadership responsibilities and general responsibilities I have trouble doing it.
+
 ### The whole need not a physician 
 And it came to pass, as Jesus sat at meat in the house, behold many publicans and sinners came and sat down with him and his disciples. And when the Pharisees saw it, they said unto his disciples, Why eateth your Master with publicans and sinners? But when Jesus heard that, he said unto them, They that be whole need not a physician, but they that are sick. But go and learn what that meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentence. (Matthew 9:10-13, Mark 2:17, Luke 5:31, Moroni 8:8)
 
