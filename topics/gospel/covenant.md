@@ -10,6 +10,15 @@ Then they that feared the Lord spake often one to another: and the Lord hearkene
 ### Yet I will own them
 Verily I say unto you, concerning your brethren who have been cast out from the land of their inheritance - I, the Lord, have suffered the affliction to come upon them, wherewith they have been afflicted, in consequence of their transgressions;[^1] Yet, I will own them, and they shall be mine in that day when I shall come to make up my jewels. (D&C 101:1-3)
 
+### I will search them, seek them, gather them, and feed them
+For thus saith the Lord God; behold, I, even I, will both search my sheep, and seek them out. As a shepherd seeketh out his flock in the day that he is among his sheep that are scattered; so will I seek out my sheep, and will deliver them out of all places where they have been scattered in the cloudy and dark day.
+
+And I will bring them out from the people, and gather them from the countries, and will bring them to their own land, and feed them upon the mountains of Israel by the rivers, and in all the inhabited places of the country. 
+
+I will feed them in a good pasture, and upon the high mountains of Israel shall their fold be: there shall they lie in a good fold, and in a fat pasture shall they feed upon the mountains of Israel.
+
+I will feed my flock, and I will cause them to lie down, saith the Lord God. I will seek that which was lost, and bring again that which was driven away, and will bind up that which was broken, and will strengthen that which was sick: but I will destroy the fat and the strong; I will feed them with judgment. (Ezekiel 34:11-16)
+
 ## Covenant breakers
 
 ### Yet I loved Jacob and I hated Esau
