@@ -1,6 +1,8 @@
 % Shawn's Book of Notes
 \documentclass{book}
 
+\usepackage{makeidx}
+
 \title{Shawn's Note Book}
 \author{Shawn Adams}
 \date{\today}
@@ -8,6 +10,7 @@
 \begin{document}
 
 \maketitle
+\makeindex
 
 \frontmatter
 \input{preamble/copyright.tex}
@@ -22,5 +25,7 @@
 \input{topics/gospel/testimonies-of-christ.tex}
 \input{topics/gospel/acts-of-christ.tex}
 \input{topics/gospel/words-of-christ.tex}
+
+\printindex
 
 \end{document}
