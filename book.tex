@@ -1,25 +1,33 @@
 % Shawn's Book of Notes
 \documentclass{book}
 
+\usepackage{xcolor}
+\usepackage{makeidx}
+\makeindex
+
 \title{Shawn's Note Book}
 \author{Shawn Adams}
 \date{\today}
 
 \begin{document}
 
-\maketitle
-
 \frontmatter
+\maketitle
 \input{preamble/copyright.tex}
-
 \tableofcontents
-\listoffigures
-\listoftables
 
 \mainmatter
+
+\newcommand{\mt}[1]{\textcolor{blue}{#1}}
 
 \part{Gospel Topics}
 \input{topics/gospel/covenant.tex}
 \input{topics/gospel/second-coming.tex}
+\input{topics/gospel/testimonies-of-christ.tex}
+\input{topics/gospel/attributes-of-christ.tex}
+\input{topics/gospel/words-of-christ.tex}
+\input{topics/gospel/acts-of-christ.tex}
+
+\printindex
 
 \end{document}
