@@ -60,6 +60,8 @@ For I am the Lord, I change not; therefore, ye sons of Jacob are not consumed. E
 ### My name shall be great among the Gentiles
 For from the rising of the sun even unto the going down of the same my name shall be great among the Gentiles; and in every place incense shall be offered unto my name, and a pure offering: for my name shall be great among the heathen, saith the Lord of hosts. (Malachi 1:11)
 
+For the Lord said unto me: They shall not go forth unto the Gentiles until the day that they shall repent of their iniquity, and become clean before the Lord. And in that day that they shall exercise faith in me, saith the Lord, even as the brother of Jared did, that they may become sanctified in me, then will I manifest unto them the things which the brother of Jared saw, even to the unfolding unto them all my revelations, saith Jesus Christ (Ether 4:6-7).
+
 [^1]: Transgressions do not change God's promise to save them in the end.
 [^2]: I believe the principle taught here is that God reserves unique love and blessings for His covenant children.
 [^3]: Edom refers to the nation that came from Esau.
